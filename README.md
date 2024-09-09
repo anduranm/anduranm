@@ -7,7 +7,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/anduranm/anduranm/blob/master/landscape.jpeg" alt="Banner">
+  <img src="https://raw.githubusercontent.com/anduranm/anduranm/main/landscape.jpeg" alt="Banner">
 </p>
 
 <!--h2 without bottom border-->
