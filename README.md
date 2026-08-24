@@ -50,9 +50,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma,blender,unity,unreal,notion,md,cmake,docker,kubernetes,postman,c,cs,cpp,dart,go,java,kotlin,nodejs,php,py,swift,html,css,js,ts,bootstrap,django,dotnet,flask,flutter,react,vue,tensorflow,visualstudio,vscode,arduino,androidstudio,linux,bash,anaconda,powershell,npm,pnpm,git,github,githubactions,azure,aws,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,bootstrap,python,django,flask,nodejs,express,java,cpp,git,github,docker,postgres,mongodb,aws,azure,vscode,figma&perline=7" />
   </a>
 </p>
+
 
 
 <!--h2 without bottom border-->
